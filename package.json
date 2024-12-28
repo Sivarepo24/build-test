@@ -1,5 +1,5 @@
 {
-    "name": "awsbuildtest",
+    "name": "build-test",
     "version": "1.0.0",
     "description": "Sample project for AWS CodeBuild",
     "main": "app.js",
